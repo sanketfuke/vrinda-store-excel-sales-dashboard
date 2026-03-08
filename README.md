@@ -93,6 +93,4 @@ This project demonstrates **data analysis and dashboard creation using Excel**. 
 ---
 
 ## Author
-
-
-Data Analyst Portfolio Project
+Sanket Fuke Computer Science Engineering Student Aspiring Data Analyst
